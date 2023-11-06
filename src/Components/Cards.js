@@ -10,7 +10,7 @@ function Cards() {
         <div className="cards__container">
             <div className="cards__wrapper">
             <ul className="cards__item">
-<CardItem   src="https://image3.jdomni.in/banner/30072021/1B/F3/C9/36A197F7A0BD5CB113A6308BBF_1627625830858.jpeg?output-format=webp"
+<CardItem   src=""
 
 text ="This 4 inch halloblacks is used for building the compound wall."  label="4 inch" path="/services">
 
